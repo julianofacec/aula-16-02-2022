@@ -123,6 +123,8 @@ ipch/
 *.vspx
 *.sap
 
+teste
+
 # Visual Studio Trace Files
 *.e2e
 
